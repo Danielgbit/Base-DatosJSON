@@ -5,7 +5,7 @@
       "precio": 19.99,
       "nombre": "Corte clásico",
       "cantidad": 10,
-      "imagen": "src/img/Corte-Clasico-2.jpg"
+      "imagen": "/img/Corte.jpg"
       
     },
     {
@@ -14,7 +14,7 @@
       "precio": 19.99,
       "nombre": "Corte moderno",
       "cantidad": 6,
-      "imagen": "src/img/Corte-Moderno.jpg"
+      "imagen": "/img/Corte.jpg"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "precio": 22.99,
       "nombre": "Corte degradado",
       "cantidad": 4,
-      "imagen": "src/img/Corte-Degradado.jpg"
+      "imagen": "/img/Corte.jpg"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "precio": 12.99,
       "nombre": "Afeitado clásico",
       "cantidad": 10,
-      "imagen": "src/img/Afeitado-Clasico.jpg"
+      "imagen": "/img/Afeitado.jpg"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "precio": 16.99,
       "nombre": "Afeitado moderno",
       "cantidad": 20,
-      "imagen": "src/img/Afeitado-Moderno.jpg"
+      "imagen": "/img/Afeitado.jpg"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "precio": 19.99,
       "nombre": "Afeitado de barba",
       "cantidad": 10,
-      "imagen": "src/img/Afeitado-Barba.jpg"
+      "imagen": "/img/Afeitado.jpg"
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "precio": 10.99,
       "nombre": "Peinado clásico",
       "cantidad": 10,
-      "imagen": "src/img/Peinado-Clasico.jpg"
+      "imagen": "/img/Peinado.jpg"
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "precio": 14.99,
       "nombre": "Peinado moderno",
       "cantidad": 10,
-      "imagen": "src/img/Peinado-Moderno.jpg"
+      "imagen": "/img/Peinado.jpg"
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "precio": 17.99,
       "nombre": "Peinado con gel",
       "cantidad": 23,
-      "imagen": "src/img/Peinado-Gel.jpg"
+      "imagen": "/img/Peinado.jpg"
     },
     {
       "id": 10,
@@ -78,7 +78,7 @@
       "precio": 9.99,
       "nombre": "Gel para cabello",
       "cantidad": 12,
-      "imagen": "src/img/Gel-Cabello.jpg"
+      "imagen": "/img/Productos.png"
     },
     {
         "id": 11,
@@ -86,7 +86,7 @@
         "precio": 8.99,
         "nombre": "Cera para cabello",
         "cantidad": 8,
-        "imagen": "src/img/Cera-Cabello.jpg"
+        "imagen": "/img/Productos.png"
       }
   ]
   
