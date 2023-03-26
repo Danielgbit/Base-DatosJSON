@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "categoria": "Corte",
+      "precio": 19.99,
+      "nombre": "Corte clásico",
+      "cantidad": 10,
+      "imagen": "src/img/Corte-Clasico-2.jpg"
+      
+    },
+    {
+      "id": 2,
+      "categoria": "Corte",
+      "precio": 19.99,
+      "nombre": "Corte moderno",
+      "cantidad": 6,
+      "imagen": "src/img/Corte-Moderno.jpg"
+    },
+    {
+      "id": 3,
+      "categoria": "Corte",
+      "precio": 22.99,
+      "nombre": "Corte degradado",
+      "cantidad": 4,
+      "imagen": "src/img/Corte-Degradado.jpg"
+    },
+    {
+      "id": 4,
+      "categoria": "Afeitado",
+      "precio": 12.99,
+      "nombre": "Afeitado clásico",
+      "cantidad": 10,
+      "imagen": "src/img/Afeitado-Clasico.jpg"
+    },
+    {
+      "id": 5,
+      "categoria": "Afeitado",
+      "precio": 16.99,
+      "nombre": "Afeitado moderno",
+      "cantidad": 20,
+      "imagen": "src/img/Afeitado-Moderno.jpg"
+    },
+    {
+      "id": 6,
+      "categoria": "Afeitado",
+      "precio": 19.99,
+      "nombre": "Afeitado de barba",
+      "cantidad": 10,
+      "imagen": "src/img/Afeitado-Barba.jpg"
+    },
+    {
+      "id": 7,
+      "categoria": "Peinado",
+      "precio": 10.99,
+      "nombre": "Peinado clásico",
+      "cantidad": 10,
+      "imagen": "src/img/Peinado-Clasico.jpg"
+    },
+    {
+      "id": 8,
+      "categoria": "Peinado",
+      "precio": 14.99,
+      "nombre": "Peinado moderno",
+      "cantidad": 10,
+      "imagen": "src/img/Peinado-Moderno.jpg"
+    },
+    {
+      "id": 9,
+      "categoria": "Peinado",
+      "precio": 17.99,
+      "nombre": "Peinado con gel",
+      "cantidad": 23,
+      "imagen": "src/img/Peinado-Gel.jpg"
+    },
+    {
+      "id": 10,
+      "categoria": "Productos",
+      "precio": 9.99,
+      "nombre": "Gel para cabello",
+      "cantidad": 12,
+      "imagen": "src/img/Gel-Cabello.jpg"
+    },
+    {
+        "id": 11,
+        "categoria": "Productos",
+        "precio": 8.99,
+        "nombre": "Cera para cabello",
+        "cantidad": 8,
+        "imagen": "src/img/Cera-Cabello.jpg"
+      }
+  ]
+  
